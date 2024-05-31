@@ -27,7 +27,14 @@ streamlit run home.py
 
 ## Imagens:
 
+1. Transcrição pelo Microfone:<br>
 ![Transcrição microfone](images/microfone.png)
+
+2. Transcrição de audio (esperando transcrição):<br>
 ![Transcrição audio](images/audio_espera.png)
+
+3. Transcrição de audio (Transcrita):<br>
 ![audio_transcrito](images/audio_transcrito.png)
+
+4. Transcrição de video do youtube:<br>
 ![video_transcrito](images/video_transcrito.png)
